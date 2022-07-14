@@ -7,7 +7,7 @@ cetak(nel(__alvino__ganteng__));time.sleep(1)
  
 if __name__ == "__main__":
         try:
-                __import__("JAVIS").login()
+                __import__("ULTRON").login()
         except Exception as e:
                 exit(str(e))
  
